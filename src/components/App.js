@@ -3,7 +3,7 @@ import React, { Component } from 'react'
 import Form from './Form';
 import Result from './Result';
 
-const APIkey = "16847f8fbc0e8e0bcde24efbf66d3ec2"
+const APIkey = "get your api key"
 
 class App extends Component {
   state = {  
